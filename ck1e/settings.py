@@ -33,7 +33,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_hosts',
     'portfolio',
-    'layout'
+    'layout',
+    'js'
 ]
 
 MIDDLEWARE = [
